@@ -1,0 +1,966 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6A86E770-F530-4243-A1B2-C41A05070FED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ACC_TEST.My.MyApplication</StartupObject>
+    <RootNamespace>ACC_TEST</RootNamespace>
+    <AssemblyName>ACC_TEST</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ACC_TEST.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ACC_TEST.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>edit-3.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>C:\Users\Public\Pictures\ملفات dll\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="TheClock">
+      <HintPath>..\..\..\..\HAH\HAH-047-ZDprint\HAH-047-PRINTTVA\HAH-047-PRINTTVA\bin\Debug\TheClock.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="activeee\CLS_PS.vb" />
+    <Compile Include="activeee\FRM_ACTIVEE.Designer.vb">
+      <DependentUpon>FRM_ACTIVEE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="activeee\FRM_ACTIVEE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="activeee\SecurityManager.vb" />
+    <Compile Include="Class1.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_ACCOUNT.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_branch.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_CU_VEN.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_DAY_B.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_PERSONAL.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_SHOW_USE.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_USER.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\US00_BT.vb" />
+    <Compile Include="CLS_\CLS_EMPLOYEE\CLS_EMPLOYEE.vb" />
+    <Compile Include="CLS_\CLS_EMPLOYEE\CLS_JOBE_MPLOYEE.vb" />
+    <Compile Include="CLS_\CLS_EMPLOYEE\ClS_DAY_EXPEN.vb" />
+    <Compile Include="CLS_\CLS_EMPLOYEE\CLS_EMPLOYEE_LEARNING.vb" />
+    <Compile Include="CLS_\CLS_EMPLOYEE\CLS_EXPEN.vb" />
+    <Compile Include="CLS_\CLS_EMPLOYEE\CLS_LEARNING.vb" />
+    <Compile Include="CLS_\CLS_ITEME\CLS_B.vb" />
+    <Compile Include="CLS_\CLS_ITEME\CLS_BILL.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_CASH_DAY.vb" />
+    <Compile Include="CLS_\CLS_ITEME\ClS_CATEGORYE.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_CURRENCY.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_DAY.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\ClS_END.vb" />
+    <Compile Include="CLS_\CLS_ITEME\CLS_ITEME.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\CLS_JOB.vb" />
+    <Compile Include="CLS_\CLS_ITEME\CLS_SET_POS.vb" />
+    <Compile Include="CLS_\CLS_ITEME\CLS_STORE.vb" />
+    <Compile Include="CLS_\CLS_ITEME\ClS_TYPE_BILL.vb" />
+    <Compile Include="CLS_\CLS_ACCOUNT\ClS_TYPE_CASH.vb" />
+    <Compile Include="CONN_\CLS_CON.vb" />
+    <Compile Include="CONN_\CLS_CONN_SERVER.vb" />
+    <Compile Include="CONN_\CLS_CON_CONFIG.vb" />
+    <Compile Include="CONN_\DataAccessLayer.vb" />
+    <Compile Include="CONN_\FRM_ALL_COMPANY.Designer.vb">
+      <DependentUpon>FRM_ALL_COMPANY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CONN_\FRM_ALL_COMPANY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONN_\FRM_NEW_COMPANY.Designer.vb">
+      <DependentUpon>FRM_NEW_COMPANY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CONN_\FRM_NEW_COMPANY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONN_\Module1.vb" />
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_BSEAT.Designer.vb">
+      <DependentUpon>FRM_BSEAT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_BSEAT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_company.Designer.vb">
+      <DependentUpon>Frm_company.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_company.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_MENU.Designer.vb">
+      <DependentUpon>FRM_MENU.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_MENU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_NOTE.Designer.vb">
+      <DependentUpon>FRM_NOTE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_NOTE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_ACCOUNT.Designer.vb">
+      <DependentUpon>FRM_ALL_ACCOUNT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_ACCOUNT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_branch.Designer.vb">
+      <DependentUpon>FRM_ALL_branch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_branch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_CURRENCY.Designer.vb">
+      <DependentUpon>FRM_ALL_CURRENCY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_CURRENCY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_CUSTOMER_POS.Designer.vb">
+      <DependentUpon>FRM_ALL_CUSTOMER_POS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_CUSTOMER_POS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_CUS_VEN.Designer.vb">
+      <DependentUpon>FRM_ALL_CUS_VEN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_CUS_VEN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_EMPLOYEE_POS.Designer.vb">
+      <DependentUpon>FRM_ALL_EMPLOYEE_POS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_EMPLOYEE_POS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_GROUP.Designer.vb">
+      <DependentUpon>FRM_ALL_GROUP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_GROUP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_HOB.Designer.vb">
+      <DependentUpon>FRM_ALL_HOB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_HOB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_ITEME.Designer.vb">
+      <DependentUpon>FRM_ALL_ITEME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_ITEME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_ITEME_POS.Designer.vb">
+      <DependentUpon>FRM_ALL_ITEME_POS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_ITEME_POS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_STORE.Designer.vb">
+      <DependentUpon>FRM_ALL_STORE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_STORE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_USER.Designer.vb">
+      <DependentUpon>FRM_ALL_USER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_USER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_BETWEEN_ACCOUNT.Designer.vb">
+      <DependentUpon>FRM_BETWEEN_ACCOUNT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_BETWEEN_ACCOUNT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_branch.Designer.vb">
+      <DependentUpon>FRM_branch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_branch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_COPY.Designer.vb">
+      <DependentUpon>FRM_COPY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_COPY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_LOGIN.Designer.vb">
+      <DependentUpon>FRM_LOGIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_LOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_NEW_ACCOUNT.Designer.vb">
+      <DependentUpon>FRM_NEW_ACCOUNT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_NEW_ACCOUNT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_TRF2.Designer.vb">
+      <DependentUpon>FRM_TRF2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_TRF2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_USER.Designer.vb">
+      <DependentUpon>FRM_USER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_USER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\FRM_EMPLOYEE\FRM_JOBE_MPLOYEE.Designer.vb">
+      <DependentUpon>FRM_JOBE_MPLOYEE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\FRM_EMPLOYEE\FRM_JOBE_MPLOYEE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_ACCOUNT.Designer.vb">
+      <DependentUpon>FRM_ACCOUNT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_ACCOUNT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_CURRENCY.Designer.vb">
+      <DependentUpon>FRM_CURRENCY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_CURRENCY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_DAY.Designer.vb">
+      <DependentUpon>FRM_DAY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_DAY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_DAY_CASH.Designer.vb">
+      <DependentUpon>FRM_DAY_CASH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_DAY_CASH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_GOB.Designer.vb">
+      <DependentUpon>FRM_GOB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\DAY\FRM_GOB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_EMPLOYEE.Designer.vb">
+      <DependentUpon>FRM_ALL_EMPLOYEE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\ALL\FRM_ALL_EMPLOYEE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\FRM_EMPLOYEE\Frm_day_expen.Designer.vb">
+      <DependentUpon>Frm_day_expen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\FRM_EMPLOYEE\Frm_day_expen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\FRM_EMPLOYEE\FRM_EARNING.Designer.vb">
+      <DependentUpon>FRM_EARNING.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\FRM_EMPLOYEE\FRM_EARNING.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\FRM_EMPLOYEE\FRM_EMPLOYEE.Designer.vb">
+      <DependentUpon>FRM_EMPLOYEE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\FRM_EMPLOYEE\FRM_EMPLOYEE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_ALL_UNIT.Designer.vb">
+      <DependentUpon>FRM_ALL_UNIT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_ALL_UNIT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_BETWEEN_ITEME.Designer.vb">
+      <DependentUpon>FRM_BETWEEN_ITEME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_BETWEEN_ITEME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_BILL.Designer.vb">
+      <DependentUpon>FRM_BILL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_BILL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_B_ITEME.Designer.vb">
+      <DependentUpon>FRM_B_ITEME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_B_ITEME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_CATEGORYE.Designer.vb">
+      <DependentUpon>FRM_CATEGORYE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_CATEGORYE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_ITEME.Designer.vb">
+      <DependentUpon>FRM_ITEME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_ITEME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_POS.Designer.vb">
+      <DependentUpon>FRM_POS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_POS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_STORE.Designer.vb">
+      <DependentUpon>FRM_STORE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_\f_iteme\FRM_STORE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="REP_\DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\DataSet1.vb">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\FRM_PRINT.Designer.vb">
+      <DependentUpon>FRM_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\FRM_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\Crystal_END_ACCOUNT.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Crystal_END_ACCOUNT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\Crystal__srf.vb">
+      <DependentUpon>Crystal__srf.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\Crystal_account_ONE.vb">
+      <DependentUpon>Crystal_account_ONE.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\Crystal_account.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Crystal_account.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\Crystal_BALANCEACCOUNT.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Crystal_BALANCEACCOUNT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\Crystal__DAY.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Crystal__DAY.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_FINAL.Designer.vb">
+      <DependentUpon>FRM_FINAL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_FINAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_LOAD_REP.Designer.vb">
+      <DependentUpon>FRM_LOAD_REP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_LOAD_REP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_REP_ACCOUNT.Designer.vb">
+      <DependentUpon>FRM_REP_ACCOUNT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_REP_ACCOUNT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_REP_ALLDAY.Designer.vb">
+      <DependentUpon>FRM_REP_ALLDAY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_REP_ALLDAY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_REP_BALANCE.Designer.vb">
+      <DependentUpon>FRM_REP_BALANCE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_REP_BALANCE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_SHOW_REP_ACCOUNT.Designer.vb">
+      <DependentUpon>FRM_SHOW_REP_ACCOUNT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_SHOW_REP_ACCOUNT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_SHOW_REP_ALLDAY.Designer.vb">
+      <DependentUpon>FRM_SHOW_REP_ALLDAY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ACC\FRM_SHOW_REP_ALLDAY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\Crystal_END_ITEME.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Crystal_END_ITEME.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\Crystal_ITEME.vb">
+      <DependentUpon>Crystal_ITEME.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_ITEME_ALL.Designer.vb">
+      <DependentUpon>FRM_ITEME_ALL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_ITEME_ALL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_ITEME_DAY.Designer.vb">
+      <DependentUpon>FRM_ITEME_DAY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_ITEME_DAY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_ALL_INVENTORY.Designer.vb">
+      <DependentUpon>FRM_REP_ALL_INVENTORY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_ALL_INVENTORY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_BALANCEITEME.Designer.vb">
+      <DependentUpon>FRM_REP_BALANCEITEME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_BALANCEITEME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_END_ITEME.Designer.vb">
+      <DependentUpon>FRM_REP_END_ITEME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_END_ITEME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_INV_DELETE.Designer.vb">
+      <DependentUpon>FRM_REP_INV_DELETE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_INV_DELETE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_INV_UPDATE.Designer.vb">
+      <DependentUpon>FRM_REP_INV_UPDATE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_REP_INV_UPDATE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_SHOW_REP_ALLbill.Designer.vb">
+      <DependentUpon>FRM_SHOW_REP_ALLbill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FRM_SHOW_REP_ALLbill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FROM_SHOP_REP_EXELL.Designer.vb">
+      <DependentUpon>FROM_SHOP_REP_EXELL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REP_\REP_ITEME\FROM_SHOP_REP_EXELL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settings\FRM_SETINGS_BILL.Designer.vb">
+      <DependentUpon>FRM_SETINGS_BILL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="settings\FRM_SETINGS_BILL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settings\FRM_SET_POS.Designer.vb">
+      <DependentUpon>FRM_SET_POS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="settings\FRM_SET_POS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="activeee\FRM_ACTIVEE.resx">
+      <DependentUpon>FRM_ACTIVEE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONN_\FRM_ALL_COMPANY.resx">
+      <DependentUpon>FRM_ALL_COMPANY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONN_\FRM_NEW_COMPANY.resx">
+      <DependentUpon>FRM_NEW_COMPANY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_BSEAT.resx">
+      <DependentUpon>FRM_BSEAT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_company.resx">
+      <DependentUpon>Frm_company.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_MENU.resx">
+      <DependentUpon>FRM_MENU.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_NOTE.resx">
+      <DependentUpon>FRM_NOTE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_ACCOUNT.resx">
+      <DependentUpon>FRM_ALL_ACCOUNT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_branch.resx">
+      <DependentUpon>FRM_ALL_branch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_CURRENCY.resx">
+      <DependentUpon>FRM_ALL_CURRENCY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_CUSTOMER_POS.resx">
+      <DependentUpon>FRM_ALL_CUSTOMER_POS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_CUS_VEN.resx">
+      <DependentUpon>FRM_ALL_CUS_VEN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_EMPLOYEE_POS.resx">
+      <DependentUpon>FRM_ALL_EMPLOYEE_POS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_GROUP.resx">
+      <DependentUpon>FRM_ALL_GROUP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_HOB.resx">
+      <DependentUpon>FRM_ALL_HOB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_ITEME.resx">
+      <DependentUpon>FRM_ALL_ITEME.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_ITEME_POS.resx">
+      <DependentUpon>FRM_ALL_ITEME_POS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_STORE.resx">
+      <DependentUpon>FRM_ALL_STORE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_USER.resx">
+      <DependentUpon>FRM_ALL_USER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_BETWEEN_ACCOUNT.resx">
+      <DependentUpon>FRM_BETWEEN_ACCOUNT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_branch.resx">
+      <DependentUpon>FRM_branch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_COPY.resx">
+      <DependentUpon>FRM_COPY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_LOGIN.resx">
+      <DependentUpon>FRM_LOGIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_NEW_ACCOUNT.resx">
+      <DependentUpon>FRM_NEW_ACCOUNT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_TRF2.resx">
+      <DependentUpon>FRM_TRF2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_USER.resx">
+      <DependentUpon>FRM_USER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\FRM_EMPLOYEE\FRM_JOBE_MPLOYEE.resx">
+      <DependentUpon>FRM_JOBE_MPLOYEE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_ACCOUNT.resx">
+      <DependentUpon>FRM_ACCOUNT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_CURRENCY.resx">
+      <DependentUpon>FRM_CURRENCY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_DAY.resx">
+      <DependentUpon>FRM_DAY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_DAY_CASH.resx">
+      <DependentUpon>FRM_DAY_CASH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\DAY\FRM_GOB.resx">
+      <DependentUpon>FRM_GOB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\ALL\FRM_ALL_EMPLOYEE.resx">
+      <DependentUpon>FRM_ALL_EMPLOYEE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\FRM_EMPLOYEE\Frm_day_expen.resx">
+      <DependentUpon>Frm_day_expen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\FRM_EMPLOYEE\FRM_EARNING.resx">
+      <DependentUpon>FRM_EARNING.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\FRM_EMPLOYEE\FRM_EMPLOYEE.resx">
+      <DependentUpon>FRM_EMPLOYEE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\f_iteme\FRM_ALL_UNIT.resx">
+      <DependentUpon>FRM_ALL_UNIT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\f_iteme\FRM_BETWEEN_ITEME.resx">
+      <DependentUpon>FRM_BETWEEN_ITEME.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\f_iteme\FRM_BILL.resx">
+      <DependentUpon>FRM_BILL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\f_iteme\FRM_B_ITEME.resx">
+      <DependentUpon>FRM_B_ITEME.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\f_iteme\FRM_CATEGORYE.resx">
+      <DependentUpon>FRM_CATEGORYE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\f_iteme\FRM_ITEME.resx">
+      <DependentUpon>FRM_ITEME.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\f_iteme\FRM_POS.resx">
+      <DependentUpon>FRM_POS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_\f_iteme\FRM_STORE.resx">
+      <DependentUpon>FRM_STORE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\FRM_PRINT.resx">
+      <DependentUpon>FRM_PRINT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\Crystal_END_ACCOUNT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal_END_ACCOUNT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\Crystal__srf.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal__srf.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\Crystal_account_ONE.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal_account_ONE.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\Crystal_account.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal_account.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\Crystal_BALANCEACCOUNT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal_BALANCEACCOUNT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\Crystal__DAY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal__DAY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\FRM_FINAL.resx">
+      <DependentUpon>FRM_FINAL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\FRM_LOAD_REP.resx">
+      <DependentUpon>FRM_LOAD_REP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\FRM_REP_ACCOUNT.resx">
+      <DependentUpon>FRM_REP_ACCOUNT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\FRM_REP_ALLDAY.resx">
+      <DependentUpon>FRM_REP_ALLDAY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\FRM_REP_BALANCE.resx">
+      <DependentUpon>FRM_REP_BALANCE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\FRM_SHOW_REP_ACCOUNT.resx">
+      <DependentUpon>FRM_SHOW_REP_ACCOUNT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ACC\FRM_SHOW_REP_ALLDAY.resx">
+      <DependentUpon>FRM_SHOW_REP_ALLDAY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\Crystal_END_ITEME.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal_END_ITEME.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\Crystal_ITEME.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Crystal_ITEME.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\FRM_ITEME_ALL.resx">
+      <DependentUpon>FRM_ITEME_ALL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\FRM_ITEME_DAY.resx">
+      <DependentUpon>FRM_ITEME_DAY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\FRM_REP_ALL_INVENTORY.resx">
+      <DependentUpon>FRM_REP_ALL_INVENTORY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\FRM_REP_BALANCEITEME.resx">
+      <DependentUpon>FRM_REP_BALANCEITEME.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\FRM_REP_END_ITEME.resx">
+      <DependentUpon>FRM_REP_END_ITEME.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\FRM_REP_INV_DELETE.resx">
+      <DependentUpon>FRM_REP_INV_DELETE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\FRM_REP_INV_UPDATE.resx">
+      <DependentUpon>FRM_REP_INV_UPDATE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\FRM_SHOW_REP_ALLbill.resx">
+      <DependentUpon>FRM_SHOW_REP_ALLbill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REP_\REP_ITEME\FROM_SHOP_REP_EXELL.resx">
+      <DependentUpon>FROM_SHOP_REP_EXELL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settings\FRM_SETINGS_BILL.resx">
+      <DependentUpon>FRM_SETINGS_BILL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settings\FRM_SET_POS.resx">
+      <DependentUpon>FRM_SET_POS.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="REP_\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="REP_\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="REP_\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\zoom-5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prev.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Last.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom-in.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-new-2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="address-book-new.ico" />
+    <Content Include="edit-3.ico" />
+    <None Include="Resources\gtodo.ico" />
+    <None Include="Resources\kcmx.ico" />
+    <None Include="Resources\easymoblog.ico" />
+    <None Include="Resources\mousepad.ico" />
+    <None Include="Resources\gpe-edit2.ico" />
+    <None Include="Resources\kate-2.ico" />
+    <None Include="Resources\emblem-system-2.ico" />
+    <None Include="Resources\text-x-copying.ico" />
+    <None Include="Resources\startupmanager.ico" />
+    <None Include="Resources\gpe-edit1.ico" />
+    <None Include="Resources\bookmark-new-list.ico" />
+    <None Include="Resources\format-list-ordered.ico" />
+    <None Include="Resources\gobby.ico" />
+    <None Include="Resources\kuser-4.ico" />
+    <None Include="Resources\gnome-blog-2.ico" />
+    <None Include="Resources\amsn.ico" />
+    <None Include="Resources\user-properties.ico" />
+    <None Include="Resources\user-group-properties.ico" />
+    <None Include="Resources\document-open-4.ico" />
+    <None Include="Resources\system-users-4.ico" />
+    <None Include="Resources\search.ico" />
+    <None Include="Resources\dialog-more.ico" />
+    <None Include="Resources\application-exit-4.ico" />
+    <None Include="Resources\dialog-cancel-7.ico" />
+    <None Include="Resources\edit-group.ico" />
+    <None Include="Resources\user-new-3.ico" />
+    <None Include="Resources\user-group-new.ico" />
+    <None Include="Resources\emblem-symbolic-link.ico" />
+    <None Include="Resources\text-x-changelog.ico" />
+    <None Include="Resources\copy.ico" />
+    <None Include="Resources\Remove.bmp" />
+    <None Include="Resources\List.bmp" />
+    <None Include="Resources\doc excel.ico" />
+    <None Include="Resources\format-justify-center-3.ico" />
+    <None Include="Resources\document-new-7.ico" />
+    <None Include="Resources\edit-6.ico" />
+    <None Include="Resources\document-new-3.ico" />
+    <None Include="Resources\document-edit2.ico" />
+    <None Include="Resources\format-justify-right-last.ico" />
+    <None Include="Resources\view-pim-journal.ico" />
+    <None Include="Resources\document-import-2.ico" />
+    <None Include="Resources\edit-copy.ico" />
+    <None Include="Resources\document-print.ico" />
+    <None Include="Resources\format-justify-center-4.ico" />
+    <None Include="Resources\format-line-spacing-triple.ico" />
+    <None Include="Resources\system-search.ico" />
+    <None Include="Resources\kword-4.ico" />
+    <None Include="Resources\accessories-text-editor-4.ico" />
+    <None Include="Resources\gedit.ico" />
+    <None Include="Resources\gpe-edit.ico" />
+    <None Include="Resources\accessories-text-editor-2.ico" />
+    <None Include="Resources\system-quick_restart.ico" />
+    <None Include="Resources\edit-2.ico" />
+    <None Include="Resources\user-new.ico" />
+    <None Include="Resources\journal.ico" />
+    <None Include="Resources\application-x-kcsrc.ico" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\development-application_designer.ico" />
+    <None Include="Resources\openttd.ico" />
+    <None Include="Resources\document-quickprint.ico" />
+    <None Include="Resources\view-process-own.ico" />
+    <None Include="Resources\view-process-all.ico" />
+    <None Include="Resources\document-edit1.ico" />
+    <None Include="Resources\edit-delete-5.ico" />
+    <None Include="Resources\document-edit.ico" />
+    <None Include="Resources\edit-paste-7.ico" />
+    <None Include="Resources\dialog-cancel-3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CLS_\CLS_SETINGEE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

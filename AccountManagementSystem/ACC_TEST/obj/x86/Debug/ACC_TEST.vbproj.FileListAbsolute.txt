@@ -1,0 +1,248 @@
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.exe.config
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.exe
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.pdb
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.xml
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_MENU.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Resources.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.exe
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.xml
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.pdb
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ACCOUNT.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ACCOUNT.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_DAY.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_CATEGORYE.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_STORE.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_GROUP.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ITEME.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BILL.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_STORE.resources
+D:\البرمجة\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_ALLITEME.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.exe.config
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.exe
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.xml
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.pdb
+C:\E\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.exe
+C:\E\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.pdb
+C:\E\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.xml
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_MENU.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ACCOUNT.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_GROUP.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ITEME.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_STORE.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ACCOUNT.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_DAY.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BILL.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_CATEGORYE.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_STORE.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Resources.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_ALLITEME.resources
+C:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.vbproj.GenerateResource.Cache
+D:\E\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.exe.config
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.exe
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.xml
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.pdb
+D:\E\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.exe
+D:\E\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.pdb
+D:\E\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.xml
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_MENU.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_GROUP.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ITEME.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_STORE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_DAY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BILL.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_CATEGORYE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_STORE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Resources.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.vbproj.GenerateResource.Cache
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_DAY_CASH.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_CURRENCY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_CURRENCY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_GOB.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_HOB.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Frm_day_expen.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_EARNING.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_JOBE_MPLOYEE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_EMPLOYEE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_EMPLOYEE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_ALLDAY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SHOW_REP_ALLDAY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_BALANCE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_FINAL.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Frm_company.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_PRINT.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_COPY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SHOW_REP_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BETWEEN_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_UNIT.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ACTIVEE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Form1.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_NOTE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SHOW_REP_ALLbill.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME_DAY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_BALANCEITEME.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\bin\Debug\TheClock.dll
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME_ALL.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FROM_SHOP_REP_EXELL.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BETWEEN_ITEME.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_TRF2.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_CUS_VEN.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_NEW_ACCOUNT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.exe.config
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.exe
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.xml
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.pdb
+D:\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.exe
+D:\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.pdb
+D:\برامجي\ACC_TEST\ACC_TEST\bin\Debug\ACC_TEST.xml
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ACTIVEE.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Form1.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Frm_company.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_MENU.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_NOTE.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ACCOUNT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_CURRENCY.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_CUS_VEN.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_GROUP.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_HOB.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ITEME.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_STORE.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BETWEEN_ACCOUNT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_COPY.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_NEW_ACCOUNT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_TRF2.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_JOBE_MPLOYEE.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ACCOUNT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_CURRENCY.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_DAY.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_DAY_CASH.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_GOB.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_EMPLOYEE.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Frm_day_expen.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_EARNING.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_EMPLOYEE.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_UNIT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BETWEEN_ITEME.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BILL.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_CATEGORYE.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_STORE.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Resources.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_PRINT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_FINAL.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_ACCOUNT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_ALLDAY.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_BALANCE.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SHOW_REP_ACCOUNT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SHOW_REP_ALLDAY.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME_ALL.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME_DAY.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_BALANCEITEME.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SHOW_REP_ALLbill.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FROM_SHOP_REP_EXELL.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.vbproj.GenerateResource.Cache
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BSEAT.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_B_ITEME.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_USER.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Form2.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_LOGIN.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.Form2.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BSEAT.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_LOGIN.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_USER.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_B_ITEME.resources
+D:\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.vbprojResolveAssemblyReference.cache
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_branch.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_branch.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_LOAD_REP.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\bin\Debug\ACC_TEST.exe.config
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.exe
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.xml
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.pdb
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\bin\Debug\ACC_TEST.exe
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\bin\Debug\ACC_TEST.pdb
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\bin\Debug\ACC_TEST.xml
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ACTIVEE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.Form1.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.Form2.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BSEAT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.Frm_company.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_MENU.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_NOTE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_branch.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_CURRENCY.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_CUS_VEN.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_DCTORE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_GROUP.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_HOB.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ITEME.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_STORE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_STUDENT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BETWEEN_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_branch.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_COPY.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_LOGIN.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_NEW_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_TRF2.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_USER.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_JOBE_MPLOYEE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_CURRENCY.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_DAY.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_DAY_CASH.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_GOB.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_EMPLOYEE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.Frm_day_expen.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_EARNING.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_EMPLOYEE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_UNIT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BETWEEN_ITEME.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_BILL.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_B_ITEME.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_CATEGORYE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_STORE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_CLASS_.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_Day_Student.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_doctor.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_hindering.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_STUDENT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_TEACHER.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.Resources.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_PRINT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_FINAL.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_LOAD_REP.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_ALLDAY.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_BALANCE.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SHOW_REP_ACCOUNT.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SHOW_REP_ALLDAY.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME_ALL.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ITEME_DAY.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_BALANCEITEME.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SHOW_REP_ALLbill.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.FROM_SHOP_REP_EXELL.resources
+D:\E\برامجي\ACC_TEST\SOURCE CODE\ACC_TEST\obj\x86\Debug\ACC_TEST.vbproj.GenerateResource.Cache
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_ALL_INVENTORY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_END_ITEME.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SETINGS_BILL.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_USER.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_SET_POS.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_CUSTOMER_POS.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_ITEME_POS.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_POS.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_EMPLOYEE_POS.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_NEW_COMPANY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_ALL_COMPANY.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.vbprojResolveAssemblyReference.cache
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_INV_DELETE.resources
+D:\E\برامجي\ACC_TEST\ACC_TEST\obj\x86\Debug\ACC_TEST.FRM_REP_INV_UPDATE.resources

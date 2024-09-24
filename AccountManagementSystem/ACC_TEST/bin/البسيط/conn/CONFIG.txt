@@ -1,0 +1,1 @@
+Data Source=(local);Initial Catalog=A_CONFIG;User ID=SA;password=;Integrated Security=false
